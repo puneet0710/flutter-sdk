@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559802030356",
+    "project_id": "puneet-bal-utsav",
+    "storage_bucket": "puneet-bal-utsav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559802030356:android:92ab0c6d54c1537f510a01",
+        "android_client_info": {
+          "package_name": "com.example.bal_utsav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559802030356-4h9sv4glmcjblnq2ms76en2iubl312ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb08-188boJCcSZ2Wq3hWd63BKzxtFVXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559802030356-4h9sv4glmcjblnq2ms76en2iubl312ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
